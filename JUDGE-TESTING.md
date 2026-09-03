@@ -3,10 +3,8 @@
 **Version 0.1.0-preview.1 · Experimental Preview — not production-ready.**
 
 Evaluate the bounded synthetic demonstration, not a finished production product.
-Configuration selections do not connect providers or launch agents. Troop Welfare
-is an AI DJ SARGE presentation with unfinished integrations; CRAPS Simulator is
-a labelled placeholder. Known layout limitations do not represent completed
-accessibility or cross-browser verification.
+Configuration selections do not connect providers or launch agents. Known layout
+limitations do not represent completed accessibility or cross-browser verification.
 
 ## Fast path
 

@@ -87,10 +87,7 @@ draft/review surface, and supported-browser verification. See
 - Configuration Center groups settings and distinguishes draft selections from
   actually applied connections. Selecting a subscription, model, or effort in
   the demo does not launch an agent or connect a paid service.
-- Troop Welfare introduces the AI DJ SARGE desktop. External music services and
-  activity integrations are unfinished; CRAPS Simulator is a labelled placeholder.
-- The full CASTRA name remains in the shared screen shell, with Troop Welfare
-  separated at the bottom of the navigation.
+- The full CASTRA name remains in the shared screen shell.
 - Some layouts and accessibility combinations remain unverified. A known
   Configuration Center agent-card label overlap is deferred for a future update.
 

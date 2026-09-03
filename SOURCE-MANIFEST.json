@@ -1,6 +1,6 @@
 {
   "schemaVersion": "castra.webmcp-public-source-manifest/1.0.0",
-  "generatedAt": "2026-09-03T06:45:21Z",
+  "generatedAt": "2026-09-03T15:30:31.354Z",
   "status": "local_candidate_not_published_pending_independent_review",
   "candidateName": "CASTRA-WebMCP-Challenge-Edition",
   "version": "0.1.0-preview.1",
@@ -17,8 +17,8 @@
     "Private verification tooling and receipts"
   ],
   "fileCount": 115,
-  "totalBytes": 3464892,
-  "canonicalEntriesSha256": "0c5316b638815a73747c24a27cb3b2999314eaff4693bf9cb6de8d3136cf13cb",
+  "totalBytes": 3464547,
+  "canonicalEntriesSha256": "ac15602afc1635be0880dc962acb825c465951f506b1bb7202bd8c21ceb52a6e",
   "digestMethod": "SHA-256 of UTF-8 compact JSON serialization of ordinal-path-sorted entries",
   "entries": [
     {
@@ -43,8 +43,8 @@
     },
     {
       "path": "JUDGE-TESTING.md",
-      "bytes": 2139,
-      "sha256": "5785526cd321df02942542507abb4fa8a2e6a5b33f66551d3c6fea8563a6b713"
+      "bytes": 2021,
+      "sha256": "4291bf8ee0e33c29542cbe9f6397abd5d2926ff88b19b882bdfeab89ebfd8e47"
     },
     {
       "path": "LICENSE",
@@ -53,8 +53,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5594,
-      "sha256": "ede8e0671d8a75e6958cdb8444d0fcb046bc144ecd5eab3cfb2bb1510db1da2c"
+      "bytes": 5367,
+      "sha256": "9a516c28e995e0ade9b331ab4b94edb9520791af670fad6c940f7f8159fef1a6"
     },
     {
       "path": "THIRD_PARTY-LICENSE-INVENTORY.json",
